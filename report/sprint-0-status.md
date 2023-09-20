@@ -48,13 +48,13 @@ Make a copy of the project and create a project in GitHub. Show the project.
 
 Show the information about your VM through the console.
 
-| <img src="./ec2-console.jpg"> |
+| <img src="./ec2-console.png"> |
 |:-----------------------------:|
 |        __AWS Console__        | 
 
 Show the application running in the EC2 terminal and browser.
 
-| <img src="./aws-running.jpg"> |
+| <img src="./aws-running.png"> |
 |:-----------------------------:|
 |      __Service Running__      | 
 
